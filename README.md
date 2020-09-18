@@ -1,24 +1,5 @@
-# vuepro
+VUE SPA Banking App Example.
 
-## Project setup
-```
-npm install
-```
+Built this app for personal learning.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://user-images.githubusercontent.com/21350316/93596993-bcd96180-f9d3-11ea-9741-7a907624a596.png)
